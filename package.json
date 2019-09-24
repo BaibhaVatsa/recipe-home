@@ -1,0 +1,22 @@
+{
+  "name": "recipe-home",
+  "version": "1.0.0",
+  "description": "recipes direct to you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaibhaVatsa/recipe-home.git"
+  },
+  "author": "Baibhav Vatsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaibhaVatsa/recipe-home/issues"
+  },
+  "homepage": "https://github.com/BaibhaVatsa/recipe-home#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
